@@ -1,6 +1,12 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+zhaoyaohui/zyh:admin.7
+zhaoyaohui/zyh:admin.8
+zhaoyaohui/zyh:jsonpath.2
+zhaoyaohui/zyh:ocr1.4.8
+zhaoyaohui/zyh:scrapyd.v4
+zhaoyaohui/zyh:scrapydweb.v5
+xuxueli/xxl-job-admin:2.3.1
+zhaoyaohui/zyh:xxl-e.3
+zhaoyaohui/zyh:xxl-e.4
+zhaoyaohui/zyh:parseword-1.9
+openjdk:8
+python:3.10
