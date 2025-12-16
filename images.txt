@@ -1,1 +1,1 @@
-ghcr.io/coollabsio/coolify-realtime:latest
+docker.io/library/postgres:15-alpine
