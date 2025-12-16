@@ -1,13 +1,1 @@
-zhaoyaohui/zyh:admin.7
-zhaoyaohui/zyh:admin.8
-zhaoyaohui/zyh:jsonpath.2
-zhaoyaohui/zyh:ocr1.4.8
-zhaoyaohui/zyh:scrapyd.v4
-zhaoyaohui/zyh:scrapydweb.v5
-xuxueli/xxl-job-admin:2.3.1
-zhaoyaohui/zyh:xxl-e.3
-zhaoyaohui/zyh:xxl-e.4
-zhaoyaohui/zyh:parseword-1.9
-openjdk:8
-python:3.10
-python:3.9-slim
+ghcr.io/coollabsio/coolify-realtime:latest
