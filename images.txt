@@ -1,6 +1,1 @@
-nocodb/nocodb:latest
-postgres:16.6
-traefik:v3.1
-redis:latest
-minio/minio:RELEASE.2025-05-24T17-08-30Z-cpuv1
-containrrr/watchtower:latest
+n8nio/n8n-python-runner
