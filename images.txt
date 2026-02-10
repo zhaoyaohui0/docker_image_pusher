@@ -1,1 +1,1 @@
-n8nio/n8n-python-runner
+kestra/kestra:latest
