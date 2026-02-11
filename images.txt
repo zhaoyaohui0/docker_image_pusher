@@ -1,1 +1,1 @@
-kestra/kestra:latest
+ghcr.io/gethomepage/homepage:latest
