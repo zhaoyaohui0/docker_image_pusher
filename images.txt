@@ -1,1 +1,1 @@
-ghcr.io/gethomepage/homepage:latest
+--platform=linux/arm64 python:3.9-slim
