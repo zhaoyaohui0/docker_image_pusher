@@ -1,1 +1,1 @@
-docker:dind
+ghcr.io/windmill-labs/windmill-extra:latest
