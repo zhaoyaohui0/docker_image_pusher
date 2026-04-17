@@ -1,1 +1,1 @@
-ghcr.io/windmill-labs/windmill-extra:latest
+docker pull xuxueli/xxl-job-admin:3.4.0
